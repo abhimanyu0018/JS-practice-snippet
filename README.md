@@ -2,5 +2,6 @@
 
 JavaScript Practice Snippets
 
-##Overview
+## Overview
+
 This repository contains a collection of my JavaScript code snippets that I've created while learnong and practice to enhance my skills.
