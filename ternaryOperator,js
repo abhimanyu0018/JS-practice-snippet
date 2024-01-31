@@ -1,0 +1,12 @@
+// ternary operator 
+let age= 18;
+
+
+if(age>=18){
+    console.log("adult");
+}else{
+    console.log("child");
+}
+
+// ternary operator (condition ? true : false)
+  age>=18 ? console.log("adult") : console.log("child");
